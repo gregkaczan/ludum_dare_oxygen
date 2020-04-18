@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "38fa369f-3490-45c9-8cf3-1868c793ee1d",
-            "Value": {
-                "id": "df0b546a-500e-41c5-b49a-e7bb24dcb8dd",
-                "resourcePath": "sprites\\rock\\rock.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "414de754-f3c0-45c1-a2bd-ee94154324be",
             "Value": {
                 "id": "0c646b5a-6b2d-4243-b91f-82f72b0ca3c8",
@@ -172,14 +164,6 @@
                 "id": "ad94b9c4-02bb-417f-9d08-c9e031d70127",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
-            }
-        },
-        {
-            "Key": "85d7e4b9-d6d9-4429-854b-394550e6ad13",
-            "Value": {
-                "id": "2d1f78cb-5bca-4558-a1a3-49b3d5da5dee",
-                "resourcePath": "objects\\rocks\\rocks.yy",
-                "resourceType": "GMObject"
             }
         },
         {
