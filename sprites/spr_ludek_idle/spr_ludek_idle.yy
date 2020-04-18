@@ -2,7 +2,7 @@
     "id": "dc7b23b6-db8d-45b3-82bd-ad4c515ae6bf",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_ludek",
+    "name": "spr_ludek_idle",
     "For3D": false,
     "HTile": false,
     "VTile": false,

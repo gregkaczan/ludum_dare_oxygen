@@ -2,7 +2,7 @@
 CENTER_X = planet.x;
 CENTER_Y = planet.y;
 
-PLAYER_SPEED = 0.3;
+PLAYER_SPEED = 0.2;
 
 CAMERA_X = 50;
 CAMERA_Y = -1000;
@@ -16,3 +16,5 @@ phase = point_direction(CENTER_X, CENTER_Y, x, y);
 // Dont track player, done manually
 camera = camera_create_view(CAMERA_X, CAMERA_Y, CAMERA_WIDTH, CAMERA_HEIGHT, 0, -1, -1, -1, -1, -1);
 view_set_camera(0, camera);
+
+moving = false;

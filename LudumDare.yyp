@@ -55,6 +55,22 @@
             }
         },
         {
+            "Key": "224b63a1-c424-4271-b058-c1c1d66e60be",
+            "Value": {
+                "id": "030e9225-0a00-43a1-920a-ac56d53e8297",
+                "resourcePath": "sprites\\spr_ludek_right\\spr_ludek_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "279cb0f3-cbf1-4836-a6e4-45f72b783d1f",
+            "Value": {
+                "id": "c4642d91-30e8-425c-a1d5-e94cb4e52dca",
+                "resourcePath": "sprites\\spr_ludek_left\\spr_ludek_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "38fa369f-3490-45c9-8cf3-1868c793ee1d",
             "Value": {
                 "id": "df0b546a-500e-41c5-b49a-e7bb24dcb8dd",
@@ -242,7 +258,7 @@
             "Key": "dc7b23b6-db8d-45b3-82bd-ad4c515ae6bf",
             "Value": {
                 "id": "dc84af40-0093-464a-aba4-bb3500789dc9",
-                "resourcePath": "sprites\\spr_ludek\\spr_ludek.yy",
+                "resourcePath": "sprites\\spr_ludek_idle\\spr_ludek_idle.yy",
                 "resourceType": "GMSprite"
             }
         },
