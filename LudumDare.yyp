@@ -34,7 +34,7 @@
             "Key": "1653e9a5-30d8-44c3-97c5-d467f88265b2",
             "Value": {
                 "id": "5fe1dad9-824a-4c8c-9e4b-52c7aa3e91b5",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\spr_planeta\\spr_planeta.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -236,6 +236,14 @@
                 "id": "22d03c8a-7047-4549-8aee-580f4a9f9bdb",
                 "resourcePath": "views\\d1f5ffa5-a7a6-45fb-9925-1ab01d31e534.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc7b23b6-db8d-45b3-82bd-ad4c515ae6bf",
+            "Value": {
+                "id": "dc84af40-0093-464a-aba4-bb3500789dc9",
+                "resourcePath": "sprites\\spr_ludek\\spr_ludek.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
