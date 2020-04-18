@@ -1,0 +1,1 @@
+image_angle = point_direction(x,y,planet.x,planet.y) + 90;

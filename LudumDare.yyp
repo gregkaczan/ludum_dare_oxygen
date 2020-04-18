@@ -135,6 +135,22 @@
             }
         },
         {
+            "Key": "69c6729c-1c81-4350-a262-3624ade20968",
+            "Value": {
+                "id": "9b050ac6-366c-4567-a8db-e771fa012a68",
+                "resourcePath": "scripts\\rotate_sprite_towards_center\\rotate_sprite_towards_center.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6c66f1dd-2a3c-4d2e-b54a-643561c5f48a",
+            "Value": {
+                "id": "1ef1846f-bef8-4f3d-a3b1-8e8de55a640d",
+                "resourcePath": "objects\\item_parent\\item_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e5d6134-67da-4f10-b9b8-f6c7ff1aca1d",
             "Value": {
                 "id": "89e08752-4607-4fca-8f98-a0794aafa6e8",
@@ -207,6 +223,14 @@
             }
         },
         {
+            "Key": "b2c83f39-3a96-43e9-bc21-a9faffa4c5a3",
+            "Value": {
+                "id": "cbe8ce0b-a471-4ae8-b9cb-b8e0e2da8a01",
+                "resourcePath": "objects\\item1\\item1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b584c62d-58ea-4a6f-adc4-fe00b6bb565c",
             "Value": {
                 "id": "187f6fab-2956-4a70-9ae4-becfaf5ed8dd",
@@ -227,6 +251,14 @@
             "Value": {
                 "id": "dcb2833d-41f6-4dda-8a16-77f7c3b46a3b",
                 "resourcePath": "views\\bb146e34-18fd-48b0-a090-e58e39c1a77e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c0f8882d-b02c-4ebc-ad07-eece8db5a358",
+            "Value": {
+                "id": "ecf291cb-1299-48bb-8880-5bb7fb7dc755",
+                "resourcePath": "views\\c0f8882d-b02c-4ebc-ad07-eece8db5a358.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -320,7 +352,7 @@
         }
     ],
     "script_order": [
-        
+        "69c6729c-1c81-4350-a262-3624ade20968"
     ],
     "tutorial": ""
 }

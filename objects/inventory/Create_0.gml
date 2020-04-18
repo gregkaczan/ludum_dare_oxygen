@@ -1,0 +1,1 @@
+instance_create_depth(inventory.bbox_left, inventory.y, 22, item1);
