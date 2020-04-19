@@ -11,7 +11,9 @@
         "99ec05f4-43c2-443f-bdc9-5b17d7375d39",
         "2f08f7d9-4140-4795-9bc5-17a2d3035e73",
         "3b2b25b6-934a-472f-8560-26366e155138",
-        "1ff7ca5a-d932-4fdb-9b5b-c062549f2591"
+        "1ff7ca5a-d932-4fdb-9b5b-c062549f2591",
+        "c9e6e3f8-0329-4589-9170-86f541a403bf",
+        "da70f704-37fa-4a09-ba60-e9028765bfdb"
     ],
     "filterType": "GMObject",
     "folderName": "interactables",

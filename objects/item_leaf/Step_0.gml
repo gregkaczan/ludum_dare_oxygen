@@ -5,7 +5,7 @@
 event_inherited();
 if !is_dragged {
 if 	distance_to_object(player) <40 {
-	if !position_meeting(x,y,planet){ 	motion_add(point_direction(x,y,planet.x,planet.y),0.3) }
+	if !position_meeting(x,y,obj_blocker){  motion_add(point_direction(x,y,planet.x,planet.y),0.3) }
 		else motion_set(0,0);
 }
 }

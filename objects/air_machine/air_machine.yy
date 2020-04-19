@@ -1,19 +1,10 @@
 {
-    "id": "1ff7ca5a-d932-4fdb-9b5b-c062549f2591",
+    "id": "da70f704-37fa-4a09-ba60-e9028765bfdb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "neon_ad",
+    "name": "air_machine",
     "eventList": [
-        {
-            "id": "a0c15718-53aa-4d2c-82ad-910f5c22c939",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "1ff7ca5a-d932-4fdb-9b5b-c062549f2591"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "265a3969-f193-4aa7-bf5a-ab409d81fd8c",
+    "spriteId": "16875822-a04b-47aa-9b75-811c6684b1ce",
     "visible": true
 }
