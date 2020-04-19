@@ -1,18 +1,18 @@
 {
-    "id": "2f08f7d9-4140-4795-9bc5-17a2d3035e73",
+    "id": "1ff7ca5a-d932-4fdb-9b5b-c062549f2591",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "alien",
+    "name": "neon_ad",
     "eventList": [
         {
-            "id": "b31a9a14-6335-49e3-9977-91b6639f7245",
+            "id": "a0c15718-53aa-4d2c-82ad-910f5c22c939",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2f08f7d9-4140-4795-9bc5-17a2d3035e73"
+            "m_owner": "1ff7ca5a-d932-4fdb-9b5b-c062549f2591"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3990243e-dcca-4dfc-b34c-1a0ef0904d06",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -1,23 +1,14 @@
 {
-    "id": "b0efe297-ecf8-4824-90d7-58295b8d252e",
+    "id": "765a5dd6-0f51-4013-a5f4-cde46e58d529",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item_medkit",
+    "name": "item_branch",
     "eventList": [
-        {
-            "id": "a8a54de7-1f30-4a73-bcf6-3352e4652a4c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b0efe297-ecf8-4824-90d7-58295b8d252e"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "9f827d85-2d44-4e95-80e9-07d641840675",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b5c346c3-3913-4fc7-a65f-e4cb1d59362d",
+    "spriteId": "2e4d8744-e883-49fe-bd49-0cbbc9f94e1b",
     "visible": true
 }
