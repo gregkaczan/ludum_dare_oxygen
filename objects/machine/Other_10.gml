@@ -1,2 +1,7 @@
 event_inherited();
-instance_create_depth(x - 40, y + 20, -1, item1);
+
+
+product_id = ds_map_find_value(approves_object,object_get_name(global.dragged.object_index))
+instance_create_depth(x - 50, y + 10, -1, product_id);
+
+instance_destroy(global.dragged);
