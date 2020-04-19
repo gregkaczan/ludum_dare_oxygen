@@ -1,8 +1,8 @@
 {
-    "id": "b2c83f39-3a96-43e9-bc21-a9faffa4c5a3",
+    "id": "6a354313-4ca5-4576-a3dd-1c0e0654c8cd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item1",
+    "name": "item_syringe",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a012eea9-989c-4a23-a625-2a0ccb219fc2",
+    "spriteId": "abf39de6-d449-4d54-b3b6-e26eec0f23d9",
     "visible": true
 }

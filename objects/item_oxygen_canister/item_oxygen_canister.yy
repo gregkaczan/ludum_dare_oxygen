@@ -1,14 +1,14 @@
 {
-    "id": "0b5ed927-5692-4359-b012-129fd46316fa",
+    "id": "0f174c02-9920-4468-bec6-78c2d8876d22",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item_methane_tank",
+    "name": "item_oxygen_canister",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "6c66f1dd-2a3c-4d2e-b54a-643561c5f48a",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "661bcdbb-373b-48f0-a805-9d25fd472ac8",
+    "spriteId": "264bd87b-1cff-4301-a7a0-60c2f555772b",
     "visible": true
 }

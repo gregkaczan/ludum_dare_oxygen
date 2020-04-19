@@ -1,8 +1,8 @@
 {
-    "id": "0488a6ff-a59e-48ee-9c90-e9cfa5af02d5",
+    "id": "60ae253b-951b-495e-91c2-5cc05f1ae342",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item3",
+    "name": "item_Xe_tank",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ecec4d6b-50da-4600-8b02-85e1e579c971",
+    "spriteId": "661bcdbb-373b-48f0-a805-9d25fd472ac8",
     "visible": true
 }

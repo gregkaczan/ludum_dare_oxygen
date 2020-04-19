@@ -50,7 +50,7 @@
             "Key": "0488a6ff-a59e-48ee-9c90-e9cfa5af02d5",
             "Value": {
                 "id": "b40a883c-bd79-47ff-a9ed-93b9284633de",
-                "resourcePath": "objects\\item3\\item3.yy",
+                "resourcePath": "objects\\item_syringe_filled\\item_syringe_filled.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -58,7 +58,7 @@
             "Key": "0b5ed927-5692-4359-b012-129fd46316fa",
             "Value": {
                 "id": "4aa0715e-7b7b-436e-bb74-9be6a86086a0",
-                "resourcePath": "objects\\item_methane_tank\\item_methane_tank.yy",
+                "resourcePath": "objects\\item_ch_tank\\item_ch_tank.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "28791b62-1c45-47eb-bd3e-808932055b5f",
                 "resourcePath": "sprites\\spr_machine\\spr_machine.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0f174c02-9920-4468-bec6-78c2d8876d22",
+            "Value": {
+                "id": "5bc6d3cd-d828-4a72-a7f5-07277f2b5661",
+                "resourcePath": "objects\\item_oxygen_canister\\item_oxygen_canister.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "2455ae19-3fa3-4a25-8149-3326cfb0ccd0",
+            "Value": {
+                "id": "ec44ea0a-6c27-4880-b4f7-f8073e85875e",
+                "resourcePath": "objects\\item_o2_tank\\item_o2_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25a83ce7-c547-45fe-a7d6-83a87bad3601",
             "Value": {
                 "id": "bacef6c7-568c-41ec-8674-c433b4016224",
@@ -175,6 +191,14 @@
             }
         },
         {
+            "Key": "2b874d06-224e-441d-98a5-81e89471659e",
+            "Value": {
+                "id": "2a0d2cef-6ccd-4a16-833c-7c680f24ba9b",
+                "resourcePath": "objects\\item_Ar_tank\\item_Ar_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2cf380a1-79a1-418b-a2be-fb3fbf1f529d",
             "Value": {
                 "id": "ecaf4775-bacd-4e36-bc3a-20d0a39b73c7",
@@ -196,6 +220,14 @@
                 "id": "8a207d47-e89e-4037-b9be-67d1237f243e",
                 "resourcePath": "sprites\\spritesy\\spritesy.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "35b4f0ca-e5c5-4bd8-ac66-cebaee065019",
+            "Value": {
+                "id": "b10a33c2-e8a8-42e7-aa1c-4e3e71efcd32",
+                "resourcePath": "objects\\item_H_tank\\item_H_tank.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -279,6 +311,22 @@
             }
         },
         {
+            "Key": "567dfdaf-6981-4349-838c-5c1dd4556557",
+            "Value": {
+                "id": "9af0340c-8834-4a84-b028-87ce2a6bad39",
+                "resourcePath": "objects\\item_He_tank\\item_He_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "575bcc84-46ad-482f-a87c-66400ae421a9",
+            "Value": {
+                "id": "8084b659-9e3e-42b2-ab9e-01240f414132",
+                "resourcePath": "objects\\item_balloon\\item_balloon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "58cc5dd8-6a31-4ce3-9a5f-3794dbbc1153",
             "Value": {
                 "id": "e7ed2c7c-cdae-4ea2-a462-469743d9ec21",
@@ -300,6 +348,14 @@
                 "id": "0fb39fc3-1e90-4142-b2be-fb1f0e498726",
                 "resourcePath": "sprites\\spr_N_tank\\spr_N_tank.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "60ae253b-951b-495e-91c2-5cc05f1ae342",
+            "Value": {
+                "id": "6346dc4b-a4a5-4ef5-8d64-2b4a12e1d5ea",
+                "resourcePath": "objects\\item_Xe_tank\\item_Xe_tank.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -330,7 +386,7 @@
             "Key": "6a354313-4ca5-4576-a3dd-1c0e0654c8cd",
             "Value": {
                 "id": "d0c806f7-cc37-4a29-93f1-6adfd8e90bdd",
-                "resourcePath": "objects\\item2\\item2.yy",
+                "resourcePath": "objects\\item_syringe\\item_syringe.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -348,6 +404,14 @@
                 "id": "cb1c784c-8c19-489d-8c45-079ca8548c7b",
                 "resourcePath": "sprites\\spr_H_tank\\spr_H_tank.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "75f7ada2-c641-4dcf-b3a2-588207de2b60",
+            "Value": {
+                "id": "3fb8cc7a-9104-48a4-b454-4e79dd6fbe47",
+                "resourcePath": "objects\\item_poop\\item_poop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -375,6 +439,14 @@
             }
         },
         {
+            "Key": "83d7a783-b056-4b44-8444-85107055d363",
+            "Value": {
+                "id": "710aa975-2176-437b-83f9-4763578f585e",
+                "resourcePath": "objects\\item_Kr_tank\\item_Kr_tank.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "ad94b9c4-02bb-417f-9d08-c9e031d70127",
@@ -388,6 +460,14 @@
                 "id": "8b51b0af-176c-48ac-8081-4dcd18c6a954",
                 "resourcePath": "sprites\\spr_He_tank\\spr_He_tank.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "88c928d2-67f1-47b8-8c32-ddd272fce74c",
+            "Value": {
+                "id": "3c41c6ea-523e-423f-9126-aa902ea2d63f",
+                "resourcePath": "objects\\item_CO_tank\\item_CO_tank.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -428,6 +508,14 @@
                 "id": "35553e50-2654-4997-915f-584d58bbd904",
                 "resourcePath": "sprites\\spr_ksenon_crystal\\spr_ksenon_crystal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9f220c6c-d9d1-4ece-8818-efc154cef01f",
+            "Value": {
+                "id": "9046c3fe-95c4-417d-81bd-8a9adcc514ef",
+                "resourcePath": "objects\\item_Ne_tank\\item_Ne_tank.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -503,6 +591,30 @@
             }
         },
         {
+            "Key": "ae9047d0-09df-419d-b636-37bd565bde4b",
+            "Value": {
+                "id": "358a5818-5135-4582-8ded-4de8f48979da",
+                "resourcePath": "objects\\item_duck\\item_duck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b0efe297-ecf8-4824-90d7-58295b8d252e",
+            "Value": {
+                "id": "8a0df6f3-72ba-4125-83b9-8460a3b743d9",
+                "resourcePath": "objects\\item_medkit\\item_medkit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b1385269-e865-4f09-83ae-20c6b5f9b6f6",
+            "Value": {
+                "id": "ad2110bf-2371-40bf-bb99-1a3c1bf1da96",
+                "resourcePath": "objects\\item_fart_shrooms\\item_fart_shrooms.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b1e02d25-2397-4189-84fc-c527929e564e",
             "Value": {
                 "id": "4a836f87-c0d8-40b1-ba9c-4e9cd87e6eed",
@@ -514,7 +626,7 @@
             "Key": "b2c83f39-3a96-43e9-bc21-a9faffa4c5a3",
             "Value": {
                 "id": "cbe8ce0b-a471-4ae8-b9cb-b8e0e2da8a01",
-                "resourcePath": "objects\\item1\\item1.yy",
+                "resourcePath": "objects\\item_foodcan\\item_foodcan.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -532,6 +644,14 @@
                 "id": "d1e3714c-d2bb-4d72-9e34-e75cebf48ffc",
                 "resourcePath": "sprites\\spr_medkit\\spr_medkit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b67e3e15-febb-4e36-a3b9-f23928f5d1d1",
+            "Value": {
+                "id": "3a43d701-59bf-477f-a3c8-65eb26445bad",
+                "resourcePath": "objects\\item_ksenon_crystals\\item_ksenon_crystals.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -579,6 +699,22 @@
             "Value": {
                 "id": "78321089-719a-405d-a59f-da0394997a5e",
                 "resourcePath": "objects\\player\\player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cac5a528-e778-466d-b8dc-f7aa9c5dbe9e",
+            "Value": {
+                "id": "eb51b749-9330-4ca9-9f12-44e405c9d179",
+                "resourcePath": "objects\\item_water_bottle\\item_water_bottle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cbecc76f-f16b-418a-8f38-a78287fba4e7",
+            "Value": {
+                "id": "a424db47-bcd9-43ea-b7ff-5cd030ee0b32",
+                "resourcePath": "objects\\item_n_tank\\item_n_tank.yy",
                 "resourceType": "GMObject"
             }
         },
