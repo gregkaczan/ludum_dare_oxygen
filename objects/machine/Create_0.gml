@@ -1,4 +1,6 @@
 event_inherited();
+image_xscale = 0.2
+image_yscale = 0.2
 
 approves_object = ds_map_create()
 
@@ -12,3 +14,4 @@ ds_map_add(approves_object,"item_oxygen_canister",item_Ar_tank);
 ds_map_add(approves_object,"item_poop",item_ch_tank);
 ds_map_add(approves_object,"item_fart_shrooms",item_n_tank);
 ds_map_add(approves_object,"item_ksenon_crystals",item_Xe_tank);
+ds_map_add(approves_object,"item_neon_piece",item_Ne_tank);
