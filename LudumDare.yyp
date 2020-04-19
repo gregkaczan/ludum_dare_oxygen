@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "1a9792a5-4b94-4e90-95d2-602227a9b816",
+            "Value": {
+                "id": "b87b0e80-38af-4291-81df-05d3cb7a4c6b",
+                "resourcePath": "sounds\\snd_animal_fart\\snd_animal_fart.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "1b4135b0-214a-45e0-a184-f5b4b3cd5686",
             "Value": {
                 "id": "26fafbda-926c-4d05-8037-a99080d9c550",
@@ -612,6 +620,22 @@
                 "id": "267ff311-1a72-43ae-a2e4-c6506aed0364",
                 "resourcePath": "rooms\\intro_fly\\intro_fly.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "76aa31ba-3c78-48f9-8428-8c2b465b8ae1",
+            "Value": {
+                "id": "4e723cb4-7c22-4065-afff-9a00eb3584d6",
+                "resourcePath": "sounds\\snd_machine_grind\\snd_machine_grind.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "78f36717-cb6a-4877-beaf-d5882ea9d9ea",
+            "Value": {
+                "id": "4b2dcd3e-7ce3-46f7-9801-a02cc53fe022",
+                "resourcePath": "sounds\\snd_alien_thanks\\snd_alien_thanks.yy",
+                "resourceType": "GMSound"
             }
         },
         {
