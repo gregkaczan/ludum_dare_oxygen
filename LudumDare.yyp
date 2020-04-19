@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "33ee87fc-2221-4bc9-bc10-6e71465c86cd",
+            "Value": {
+                "id": "f14cb34c-752b-4c37-b21c-ec0ab44af1d8",
+                "resourcePath": "sounds\\snd_nuh_uh\\snd_nuh_uh.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "35131184-7a5d-405f-acf5-5f8c6dc6edca",
             "Value": {
                 "id": "7d6dd7f3-38b2-45f6-a54e-124b74b36983",
@@ -679,6 +687,14 @@
             }
         },
         {
+            "Key": "a06f685c-08c9-4274-ad54-db3057970c57",
+            "Value": {
+                "id": "c75c1493-38eb-48f2-a040-faec3939670a",
+                "resourcePath": "sprites\\spr_intro_speech_bubble\\spr_intro_speech_bubble.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "625b7997-21e8-4ba3-ab68-a41b82ca2544",
@@ -772,6 +788,14 @@
                 "id": "4a836f87-c0d8-40b1-ba9c-4e9cd87e6eed",
                 "resourcePath": "sprites\\spr_O2_tank\\spr_O2_tank.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1fac658-c01d-4df4-976c-603bf7add21a",
+            "Value": {
+                "id": "46c03f93-873a-4bc7-bc73-c868ff3e1948",
+                "resourcePath": "objects\\intro_speech_bubble\\intro_speech_bubble.yy",
+                "resourceType": "GMObject"
             }
         },
         {

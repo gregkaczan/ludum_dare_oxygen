@@ -9,6 +9,7 @@ if (
 		//instance_destroy(global.dragged);
 		event_user(0);
 	} else {
-		show_debug_message("not ok")
+		show_debug_message("not ok");
+		audio_play_sound(snd_nuh_uh, 1, 0);
 	}
 }
