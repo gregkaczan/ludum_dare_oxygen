@@ -1,23 +1,14 @@
 {
-    "id": "2f08f7d9-4140-4795-9bc5-17a2d3035e73",
+    "id": "2f7defc1-2d9c-4645-9676-dcdfada30f1e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "alien",
+    "name": "item_kryptonit",
     "eventList": [
-        {
-            "id": "b31a9a14-6335-49e3-9977-91b6639f7245",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2f08f7d9-4140-4795-9bc5-17a2d3035e73"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "9f827d85-2d44-4e95-80e9-07d641840675",
+    "parentObjectId": "6c66f1dd-2a3c-4d2e-b54a-643561c5f48a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3990243e-dcca-4dfc-b34c-1a0ef0904d06",
+    "spriteId": "2c0b230c-951a-44c9-a271-637a22614171",
     "visible": true
 }

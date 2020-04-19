@@ -1,18 +1,28 @@
 {
-    "id": "2f08f7d9-4140-4795-9bc5-17a2d3035e73",
+    "id": "3b2b25b6-934a-472f-8560-26366e155138",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "alien",
+    "name": "balloon",
     "eventList": [
         {
-            "id": "b31a9a14-6335-49e3-9977-91b6639f7245",
+            "id": "e5dbbf31-dd66-46f6-ad8d-ead5842f1324",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "2f08f7d9-4140-4795-9bc5-17a2d3035e73"
+            "m_owner": "3b2b25b6-934a-472f-8560-26366e155138"
+        },
+        {
+            "id": "727ff0a0-8255-4f9d-894d-e63b58a7123c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "3b2b25b6-934a-472f-8560-26366e155138"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "3990243e-dcca-4dfc-b34c-1a0ef0904d06",
+    "spriteId": "043cf656-76dc-46d3-94a8-687076dc6484",
     "visible": true
 }

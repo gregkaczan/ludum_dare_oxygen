@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "1ff7ca5a-d932-4fdb-9b5b-c062549f2591",
+            "Value": {
+                "id": "b066f310-22a4-49e2-bd60-0020dfa19146",
+                "resourcePath": "objects\\neon_ad\\neon_ad.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "224b63a1-c424-4271-b058-c1c1d66e60be",
             "Value": {
                 "id": "030e9225-0a00-43a1-920a-ac56d53e8297",
@@ -247,6 +255,14 @@
             }
         },
         {
+            "Key": "2f7defc1-2d9c-4645-9676-dcdfada30f1e",
+            "Value": {
+                "id": "924438eb-6445-4c04-abce-ad0cd3c0ccf8",
+                "resourcePath": "objects\\item_kryptonit\\item_kryptonit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32cff0be-7382-486a-bcef-215f20344f96",
             "Value": {
                 "id": "8a207d47-e89e-4037-b9be-67d1237f243e",
@@ -291,6 +307,14 @@
             "Value": {
                 "id": "1e8b825f-a3db-4d27-883b-b1126ad0f255",
                 "resourcePath": "objects\\ludek_closed_eyes\\ludek_closed_eyes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3b2b25b6-934a-472f-8560-26366e155138",
+            "Value": {
+                "id": "730fb4e1-f55c-4252-aea0-3749fd964c7a",
+                "resourcePath": "objects\\balloon\\balloon.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -527,6 +551,14 @@
             }
         },
         {
+            "Key": "765a5dd6-0f51-4013-a5f4-cde46e58d529",
+            "Value": {
+                "id": "a8378aa8-f79b-4b76-8896-f8cda0af2497",
+                "resourcePath": "objects\\item_branch\\item_branch.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "768ef0e8-bf46-48e3-876d-be8600ba5365",
             "Value": {
                 "id": "267ff311-1a72-43ae-a2e4-c6506aed0364",
@@ -754,7 +786,7 @@
             "Key": "b0efe297-ecf8-4824-90d7-58295b8d252e",
             "Value": {
                 "id": "8a0df6f3-72ba-4125-83b9-8460a3b743d9",
-                "resourcePath": "objects\\item_medkit\\item_medkit.yy",
+                "resourcePath": "objects\\medkit\\medkit.yy",
                 "resourceType": "GMObject"
             }
         },
