@@ -1,3 +1,5 @@
+audio_play_sound(snd_alien_thanks, 1, 0);
+
 event_inherited();
 
 with (spawned_item) {

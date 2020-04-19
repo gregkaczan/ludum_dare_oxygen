@@ -1,7 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+audio_play_sound(snd_animal_fart, 1, 0);
 
-// Inherit the parent event
 event_inherited();
 
 ds_map_add(approves_object,"item_foodcan",item_poop)
