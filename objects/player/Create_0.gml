@@ -2,7 +2,7 @@
 CENTER_X = planet.x;
 CENTER_Y = planet.y;
 
-PLAYER_SPEED = 0.2;
+PLAYER_SPEED = 0.15;
 
 CAMERA_X = 50;
 CAMERA_Y = -1000;
