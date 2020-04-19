@@ -20,3 +20,5 @@ view_set_camera(0, camera);
 moving = false;
 picking = false;
 global.dragged = -1;
+
+audio_play_sound(snd_music, 1, 1);
