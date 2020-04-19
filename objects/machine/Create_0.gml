@@ -1,2 +1,2 @@
 event_inherited();
-approves_object = item3;
+approves_object = "item3";
