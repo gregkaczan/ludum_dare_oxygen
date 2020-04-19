@@ -1,1 +1,3 @@
-moving = false;
+if (!picking) {
+  moving = false;
+}

@@ -18,3 +18,5 @@ camera = camera_create_view(CAMERA_X, CAMERA_Y, CAMERA_WIDTH, CAMERA_HEIGHT, 0, 
 view_set_camera(0, camera);
 
 moving = false;
+picking = false;
+global.dragged = -1;
