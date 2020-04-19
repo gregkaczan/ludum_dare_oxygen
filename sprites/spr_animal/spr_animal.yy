@@ -11,7 +11,7 @@
     "bbox_right": 1543,
     "bbox_top": 111,
     "bboxmode": 0,
-    "colkind": 1,
+    "colkind": 0,
     "coltolerance": 0,
     "edgeFiltering": true,
     "frames": [
