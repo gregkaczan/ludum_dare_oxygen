@@ -18,3 +18,6 @@ for (i = 0; i < instance_number(item_parent); i += 1) {
 camera_set_view_angle(camera, -(phase)+90);
 camera_set_view_pos(camera, x - CAMERA_WIDTH / 2, y - CAMERA_HEIGHT / 2);
 
+if (moving && !audio_is_playing(snd_walk)) {
+	audio_play_sound(snd_walk, 1, 1);
+}

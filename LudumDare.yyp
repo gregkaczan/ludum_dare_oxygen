@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "47c2482f-f23e-48cb-804d-d8b081950f0d",
+            "Value": {
+                "id": "317e0b83-f0e3-4ca9-ade8-3c6b66a3ca62",
+                "resourcePath": "sounds\\snd_walk\\snd_walk.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c729a43-c9d7-4de0-b541-8cbcb5c1e76d",
             "Value": {
                 "id": "6b355d10-ab25-4592-a386-b1978d728785",
