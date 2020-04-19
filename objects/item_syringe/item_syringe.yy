@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_syringe",
     "eventList": [
-        
+        {
+            "id": "abf4319e-79df-48db-8a75-7178e2a5d559",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6a354313-4ca5-4576-a3dd-1c0e0654c8cd"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

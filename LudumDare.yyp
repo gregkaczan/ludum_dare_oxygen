@@ -807,6 +807,14 @@
             }
         },
         {
+            "Key": "bc0860c7-a9e9-43b8-991c-5183cc4afe98",
+            "Value": {
+                "id": "15188586-f4cb-4f0b-be10-e104842c55db",
+                "resourcePath": "sprites\\spr_fart_shrooms1\\spr_fart_shrooms1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c0f8882d-b02c-4ebc-ad07-eece8db5a358",
             "Value": {
                 "id": "ecf291cb-1299-48bb-8880-5bb7fb7dc755",
