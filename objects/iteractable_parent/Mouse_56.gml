@@ -4,9 +4,9 @@ if (
 ) {
 	show_debug_message(global.dragged)
 	
-	if (approves_object == object_get_name(global.dragged.object_index)) {
+	if ds_map_exists(approves_object,object_get_name(global.dragged.object_index)) {
 		show_debug_message("ok");
-		instance_destroy(global.dragged);
+		//instance_destroy(global.dragged);
 		event_user(0);
 	} else {
 		show_debug_message("not ok")
