@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-//ds_map_add(approves_object,"item_rock",item_neon_piece)
+ds_map_add(approves_object,"item_rock",item_neon_piece)
