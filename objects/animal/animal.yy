@@ -1,14 +1,23 @@
 {
-    "id": "cac5a528-e778-466d-b8dc-f7aa9c5dbe9e",
+    "id": "99ec05f4-43c2-443f-bdc9-5b17d7375d39",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item_water_bottle",
+    "name": "animal",
     "eventList": [
-        
+        {
+            "id": "df5e86bf-7b59-4077-b4d0-13507819f62c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "99ec05f4-43c2-443f-bdc9-5b17d7375d39"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "6c66f1dd-2a3c-4d2e-b54a-643561c5f48a",
+    "parentObjectId": "9f827d85-2d44-4e95-80e9-07d641840675",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2347d930-7a5e-455d-9d36-11c30c66ec30",
+    "spriteId": "a5807bda-a102-42f0-b13a-3924dfc8c752",
     "visible": true
 }
