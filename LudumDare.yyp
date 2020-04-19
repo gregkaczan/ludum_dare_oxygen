@@ -903,14 +903,6 @@
             }
         },
         {
-            "Key": "d53fa77c-0aeb-46c6-9647-ef541fa34fd2",
-            "Value": {
-                "id": "c23c3030-8b5c-4546-8ee9-d6af4f0384e5",
-                "resourcePath": "objects\\animal\\animal.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "dc7b23b6-db8d-45b3-82bd-ad4c515ae6bf",
             "Value": {
                 "id": "dc84af40-0093-464a-aba4-bb3500789dc9",
