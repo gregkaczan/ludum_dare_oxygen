@@ -527,6 +527,14 @@
             }
         },
         {
+            "Key": "3de7838d-54f7-4c1d-8693-14190983630a",
+            "Value": {
+                "id": "717cc1d6-91c1-450a-9db5-68c99d4e7ff8",
+                "resourcePath": "sounds\\snd_start\\snd_start.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "3f91e76d-b808-4797-be29-0ac77b219abe",
             "Value": {
                 "id": "ec0f7224-d2db-4f1b-bffe-7f82dbb87931",
@@ -636,6 +644,14 @@
                 "id": "6c27fc40-ed19-401b-8694-de65dca6dbed",
                 "resourcePath": "objects\\OutroControllerFlyOff\\OutroControllerFlyOff.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4eca937d-2faa-45f4-98a8-f4e0e3d776d7",
+            "Value": {
+                "id": "b678c642-6e46-4879-acd7-4c69a0d24971",
+                "resourcePath": "sounds\\snd_countdown\\snd_countdown.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1191,6 +1207,14 @@
             }
         },
         {
+            "Key": "a17ecb78-bc49-46d2-885f-dcedad7bf2ef",
+            "Value": {
+                "id": "c1eb7cc9-63ed-4c4e-90f5-ad7dac3a5b1f",
+                "resourcePath": "sounds\\snd_title\\snd_title.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a32f1f31-2b8d-4d7f-a743-775843ef59a3",
             "Value": {
                 "id": "d7e74003-c4e9-4056-af78-7dd5a74f9459",
@@ -1255,6 +1279,14 @@
             }
         },
         {
+            "Key": "a9d1e3e6-cc17-4797-a071-a68a8dacea4f",
+            "Value": {
+                "id": "62e988f3-f151-4c7b-bdfd-7daa02b87883",
+                "resourcePath": "rooms\\intro_empty2\\intro_empty2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "abf39de6-d449-4d54-b3b6-e26eec0f23d9",
             "Value": {
                 "id": "1d94d77f-fda4-43d0-9d69-4aa3e97d9c5b",
@@ -1308,6 +1340,14 @@
                 "id": "358a5818-5135-4582-8ded-4de8f48979da",
                 "resourcePath": "objects\\item_duck\\item_duck.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "aeec3a24-dfdf-4c5a-943e-6c4d11590815",
+            "Value": {
+                "id": "b1d31392-3307-417c-9901-24e7fa88cd45",
+                "resourcePath": "sounds\\snd_fanfary\\snd_fanfary.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1415,6 +1455,14 @@
             }
         },
         {
+            "Key": "b9c9be14-2f19-471f-b0f6-861306ba3eb4",
+            "Value": {
+                "id": "32489eb0-671f-4b9b-9b46-11b63ccdeec8",
+                "resourcePath": "sprites\\spr_outro_creature\\spr_outro_creature.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ba980f93-133e-4605-8293-a62c018eca5d",
             "Value": {
                 "id": "35e5206f-3452-4e5f-aa09-981d585fa746",
@@ -1479,6 +1527,14 @@
             }
         },
         {
+            "Key": "c156e95d-6fdf-4546-8c14-cdb176c7d5f7",
+            "Value": {
+                "id": "1e58507f-6c89-4a18-a5aa-e1855b2a3e26",
+                "resourcePath": "objects\\OutroControllerCreature\\OutroControllerCreature.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c397e234-4a3b-44f4-91ef-54afd4090ba8",
             "Value": {
                 "id": "cbf92ce5-7ace-4ef4-9831-4a1d014a3799",
@@ -1508,6 +1564,14 @@
                 "id": "8cc92b29-b275-4ef1-be0a-a64be7774ef7",
                 "resourcePath": "sprites\\spr_air_machine_full\\spr_air_machine_full.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c8a64df8-baa6-4c7f-bc02-dd2a83d2eae0",
+            "Value": {
+                "id": "ed56c696-7f27-45d0-83d1-e739e1b2ba99",
+                "resourcePath": "rooms\\outro_creature\\outro_creature.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1643,6 +1707,14 @@
             "Value": {
                 "id": "dc84af40-0093-464a-aba4-bb3500789dc9",
                 "resourcePath": "sprites\\spr_ludek_idle\\spr_ludek_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e0dd0c86-e4d0-40d6-a3c6-d9c7e5a56a03",
+            "Value": {
+                "id": "4a9f4648-d995-4e9c-a9ea-b53f35aec651",
+                "resourcePath": "sprites\\spr_outro_rocket\\spr_outro_rocket.yy",
                 "resourceType": "GMSprite"
             }
         },

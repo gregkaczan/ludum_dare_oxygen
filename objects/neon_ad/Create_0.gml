@@ -6,4 +6,4 @@ event_inherited();
 
 ds_map_add(approves_object,"item_rock",item_neon_piece);
 
-bubble_sprite = spr_bubble_neon;
+bubble_sprite = spr_bubble_neon_sign;

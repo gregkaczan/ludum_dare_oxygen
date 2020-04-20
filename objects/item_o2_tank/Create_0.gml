@@ -4,4 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
-pickup_sound = snd_gastank
+pickup_sound = snd_gastank;
+bubble_sprite = spr_bubble_oxygen;

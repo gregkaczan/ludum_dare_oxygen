@@ -8,7 +8,9 @@
         "b813cd24-0a0a-4c86-a861-a94566ed0b55",
         "470f9fd2-7889-4783-947b-29e87cd3f6f2",
         "a06f685c-08c9-4274-ad54-db3057970c57",
-        "942f3fd7-b8c6-461b-b7e9-84bc0c72d6a5"
+        "942f3fd7-b8c6-461b-b7e9-84bc0c72d6a5",
+        "e0dd0c86-e4d0-40d6-a3c6-d9c7e5a56a03",
+        "b9c9be14-2f19-471f-b0f6-861306ba3eb4"
     ],
     "filterType": "GMSprite",
     "folderName": "intro",
