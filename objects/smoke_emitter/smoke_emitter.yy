@@ -1,33 +1,23 @@
 {
-    "id": "99ec05f4-43c2-443f-bdc9-5b17d7375d39",
+    "id": "8703a05a-3168-4173-aca8-730fd8fd3a28",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "animal",
+    "name": "smoke_emitter",
     "eventList": [
         {
-            "id": "df5e86bf-7b59-4077-b4d0-13507819f62c",
+            "id": "127269b4-b832-4fd5-a183-92924fd88bd2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "99ec05f4-43c2-443f-bdc9-5b17d7375d39"
-        },
-        {
-            "id": "91181f08-a68f-42fd-bbce-2d6831f87186",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 7,
-            "m_owner": "99ec05f4-43c2-443f-bdc9-5b17d7375d39"
+            "m_owner": "8703a05a-3168-4173-aca8-730fd8fd3a28"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "9f827d85-2d44-4e95-80e9-07d641840675",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a5807bda-a102-42f0-b13a-3924dfc8c752",
+    "spriteId": "ecec4d6b-50da-4600-8b02-85e1e579c971",
     "visible": true
 }

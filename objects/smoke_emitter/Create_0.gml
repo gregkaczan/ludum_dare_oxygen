@@ -1,0 +1,1 @@
+effect_create_below(ef_smokeup, x, y, 0, c_gray);
