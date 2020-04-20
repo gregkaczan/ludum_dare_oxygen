@@ -1,6 +1,6 @@
 event_inherited();
-image_xscale = 0.2
-image_yscale = 0.2
+image_xscale = 0.3
+image_yscale = 0.3
 
 approves_object = ds_map_create()
 

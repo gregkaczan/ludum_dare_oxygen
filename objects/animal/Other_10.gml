@@ -16,7 +16,7 @@ switch (product_id) {
 		alarm_set(0,50);
         break;
     case item_syringe_filled:
-        
+        alarm_set(1,15)
         break;
     default:
         // code here

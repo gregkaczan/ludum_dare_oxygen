@@ -8,5 +8,5 @@ instance_destroy(global.dragged);
 global.dragged = -1;
 
 product_id = ds_map_find_value(approves_object, obj_name);
-spawned_item = instance_create_depth(x - 50, y + 10, -1, product_id);
+spawned_item = instance_create_depth(x - 120, y + 80, -1, product_id);
 

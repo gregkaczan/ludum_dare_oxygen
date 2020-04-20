@@ -1231,6 +1231,14 @@
             }
         },
         {
+            "Key": "f0bd56d4-c22a-472a-9ed3-98d78734f7bb",
+            "Value": {
+                "id": "01ceb771-fabc-4bbe-9d89-1e94222730d2",
+                "resourcePath": "sounds\\snd_ouch\\snd_ouch.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f0de8648-8620-4e3d-8935-a05543b55b74",
             "Value": {
                 "id": "0afd41c8-578f-427c-b1c7-cef42eb23b30",

@@ -10,5 +10,5 @@ show_debug_message(obj_name);
 global.dragged = -1;
 
 product_id = ds_map_find_value(approves_object, obj_name);
-spawned_item = instance_create_depth(x - 50, y + 10, -1, product_id);
-
+spawned_item = instance_create_depth(x + 30, y +50, -1, product_id);
+sprite_index = spr_opened_medkit;
