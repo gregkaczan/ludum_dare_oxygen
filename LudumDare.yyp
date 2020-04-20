@@ -1095,6 +1095,14 @@
             }
         },
         {
+            "Key": "896c48ee-407a-4dbc-beb4-257f7bfa408a",
+            "Value": {
+                "id": "e9f45fcc-54be-4694-b553-d16da460b1cd",
+                "resourcePath": "sounds\\snd_pig\\snd_pig.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8e42b16c-cfd8-44c3-8935-bc6289490043",
             "Value": {
                 "id": "e26e58f0-9ded-41aa-8852-f491acec2883",

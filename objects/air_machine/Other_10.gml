@@ -16,4 +16,5 @@ global.dragged = -1;
 if !instance_exists(air_machine_placeholder) {  
   sprite_index = spr_air_machine_full;
   alarm[0] = 2 * room_speed;
+  audio_play_sound(snd_fanfary, 1, 0);
 }
