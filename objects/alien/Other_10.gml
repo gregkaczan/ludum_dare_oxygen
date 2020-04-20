@@ -11,7 +11,7 @@ global.dragged = -1;
 
 product_id = ds_map_find_value(approves_object, obj_name);
 sprite_index = spr_alien_hand
-spawned_item = instance_create_depth(x - 120, y + 60, 401, product_id);
+spawned_item = instance_create_depth(x - 120, y + 60, 301, product_id);
 
 
 
