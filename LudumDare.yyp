@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "36dceaf3-c7b7-422a-81c5-36dd344fa193",
+            "Value": {
+                "id": "9274ee2d-f69a-4d7d-9230-c0fa4350e6cc",
+                "resourcePath": "sprites\\spr_animal_pooping\\spr_animal_pooping.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3990243e-dcca-4dfc-b34c-1a0ef0904d06",
             "Value": {
                 "id": "1fc00439-cf91-4946-8bf9-addb84684ad5",
@@ -403,6 +411,14 @@
             "Value": {
                 "id": "38473da0-b7e1-4f25-afee-dc633d46f751",
                 "resourcePath": "sprites\\spr_tree\\spr_tree.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3db22d5a-96e5-4600-afe3-071ff9a578b5",
+            "Value": {
+                "id": "784761e0-039f-44e2-80e8-aeb7c7b73c2a",
+                "resourcePath": "sprites\\spr_opened_medkit\\spr_opened_medkit.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -772,14 +788,6 @@
                 "id": "9facfd72-bf1b-4904-988e-5f165c8c280c",
                 "resourcePath": "views\\84892579-1bc8-4a5d-ab50-9a2fca1716b3.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "8703a05a-3168-4173-aca8-730fd8fd3a28",
-            "Value": {
-                "id": "2efca68a-7ef8-41b3-b925-376e73f54718",
-                "resourcePath": "objects\\smoke_emitter\\smoke_emitter.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1324,6 +1332,14 @@
                 "id": "81113152-8e61-4f63-b6ec-a0fd37c5ce28",
                 "resourcePath": "sprites\\sprite111\\sprite111.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f094d035-1465-4446-be8d-3cde47432804",
+            "Value": {
+                "id": "77991777-ddd1-472c-a76e-e9b8b19697dd",
+                "resourcePath": "objects\\obj_blocker_poop\\obj_blocker_poop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
