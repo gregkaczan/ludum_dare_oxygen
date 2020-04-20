@@ -13,8 +13,7 @@ for (var i = 0; i < instance_number(air_machine_placeholder); ++i;)  {
 instance_destroy(global.dragged);
 global.dragged = -1;
 
-if !instance_exists(air_machine_placeholder)	{  
-	
-	sprite_index = spr_air_machine_progress
-	if image_index == image_number image_speed = 0;
-	}
+//if !instance_exists(air_machine_placeholder) {  
+  sprite_index = spr_air_machine_full;
+  alarm[0] = 2 * room_speed;
+//}

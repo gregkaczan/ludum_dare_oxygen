@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "2b0ef0b3-b87a-4fc7-a5cb-bf55740d026c",
+            "Value": {
+                "id": "16d756ff-f432-4733-87e1-05b08699a782",
+                "resourcePath": "sprites\\spr_bubble_neon_sign\\spr_bubble_neon_sign.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2b874d06-224e-441d-98a5-81e89471659e",
             "Value": {
                 "id": "2a0d2cef-6ccd-4a16-833c-7c680f24ba9b",
@@ -371,6 +379,14 @@
             "Value": {
                 "id": "8a207d47-e89e-4037-b9be-67d1237f243e",
                 "resourcePath": "sprites\\spritesy\\spritesy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "33492653-69ff-4040-a69e-9e0873e4da1e",
+            "Value": {
+                "id": "aefb95c7-3104-45b7-934b-9c336ecbce85",
+                "resourcePath": "sprites\\spr_ludek_happy\\spr_ludek_happy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -747,6 +763,14 @@
             "Value": {
                 "id": "0fb39fc3-1e90-4142-b2be-fb1f0e498726",
                 "resourcePath": "sprites\\spr_N_tank\\spr_N_tank.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5f7d9311-55a0-43b9-99e3-de838f531353",
+            "Value": {
+                "id": "6df11b22-3cee-4d1a-a810-024f509d1c23",
+                "resourcePath": "sprites\\spr_bubble_finish\\spr_bubble_finish.yy",
                 "resourceType": "GMSprite"
             }
         },
