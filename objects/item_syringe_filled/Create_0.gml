@@ -6,5 +6,6 @@ event_inherited();
 
 image_xscale = 0.3;
 image_yscale = 0.3;
-
+is_collected = true;
 bubble_sprite = spr_bubble_syringe;
+pickup_sound = snd_syringe;

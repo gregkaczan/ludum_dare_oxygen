@@ -15,8 +15,6 @@ global.dragged = -1;
 
 if !instance_exists(air_machine_placeholder)	{  
 	
-	sprite_index = spr_air_machine_full;
-	
-	player.sprite_index = player_win
-	
+	sprite_index = spr_air_machine_progress
+	if image_index == image_number image_speed = 0;
 	}

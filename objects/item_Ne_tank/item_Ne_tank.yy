@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_Ne_tank",
     "eventList": [
-        
+        {
+            "id": "577d5e54-759f-4bf2-93e5-6b84114d0bbd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "9f220c6c-d9d1-4ece-8818-efc154cef01f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

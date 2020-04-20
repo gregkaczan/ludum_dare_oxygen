@@ -8,3 +8,6 @@ image_xscale = 0.3;
 image_yscale = 0.3;
 
 bubble_sprite = spr_bubble_poo;
+
+
+pickup_sound = snd_poop

@@ -4,3 +4,4 @@
 // Inherit the parent event
 event_inherited();
 bubble_sprite = spr_bubble_canned_food;
+pickup_sound = snd_foodcan

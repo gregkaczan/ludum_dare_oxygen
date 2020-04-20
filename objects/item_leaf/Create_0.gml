@@ -6,3 +6,4 @@ event_inherited();
 
 at_ground = false;
 bubble_sprite = spr_bubble_leaf;
+pickup_sound = snd_leaf

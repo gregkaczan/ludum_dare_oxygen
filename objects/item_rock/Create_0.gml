@@ -5,3 +5,4 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_rock;
+pickup_sound = snd_rock

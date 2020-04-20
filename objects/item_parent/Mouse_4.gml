@@ -5,6 +5,7 @@ if (is_collected) {
 
 if (!is_collected && collision_rectangle(bbox_left, bbox_top, bbox_right, bbox_bottom, player, 1, 0)) {
 	player.picking = true;
+	if pickup_sound != noone audio_play_sound(pickup_sound,1,0);
 	player.sprite_index = spr_ludek_pick;
 	alarm[0] = 0.5 * room_speed;
 }

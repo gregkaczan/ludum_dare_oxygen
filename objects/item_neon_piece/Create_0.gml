@@ -7,3 +7,4 @@ event_inherited();
 strucked = false;
 
 bubble_sprite = spr_bubble_neon_pipe;
+pickup_sound = snd_neonpiece

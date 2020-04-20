@@ -5,3 +5,5 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_puffball;
+
+pickup_sound = snd_fastshroom

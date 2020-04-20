@@ -5,3 +5,5 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_bottled_water;
+
+pickup_sound = snd_water_bottle

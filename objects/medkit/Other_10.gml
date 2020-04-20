@@ -2,7 +2,7 @@
 // You can write your code in this editor
 /// @description On Approved item
 show_debug_message("approved item");
-
+audio_play_sound(snd_medkit,1,0);
 obj_name = object_get_name(global.dragged.object_index);
 show_debug_message("spawn item: ");
 show_debug_message(obj_name);

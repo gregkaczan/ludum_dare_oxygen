@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_Kr_tank",
     "eventList": [
-        
+        {
+            "id": "e96487d1-638e-4618-94db-d80a30e65c0c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "83d7a783-b056-4b44-8444-85107055d363"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

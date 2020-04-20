@@ -5,3 +5,5 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_str_rock;
+
+pickup_sound = snd_krypton

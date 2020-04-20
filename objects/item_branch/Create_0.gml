@@ -5,3 +5,5 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_stick;
+
+pickup_sound = snd_stick

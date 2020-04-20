@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_Ar_tank",
     "eventList": [
-        
+        {
+            "id": "22489563-8b8c-4bcd-af3a-58666a6df193",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2b874d06-224e-441d-98a5-81e89471659e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

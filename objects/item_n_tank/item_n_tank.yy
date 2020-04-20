@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_n_tank",
     "eventList": [
-        
+        {
+            "id": "a23b1a7d-4796-4893-bf64-b97a17495414",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cbecc76f-f16b-418a-8f38-a78287fba4e7"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

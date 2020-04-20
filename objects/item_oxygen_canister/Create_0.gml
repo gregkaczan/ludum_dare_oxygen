@@ -5,3 +5,5 @@
 event_inherited();
 
 bubble_sprite = spr_bubble_spare_air;
+
+pickup_sound = snd_airtank
