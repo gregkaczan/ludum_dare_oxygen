@@ -1,0 +1,1 @@
+obj_dymek.sprite_index = spr_bubble_none;

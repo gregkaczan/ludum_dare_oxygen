@@ -5,6 +5,9 @@ y = CENTER_Y - radius * dsin(phase);
 inventory.x = CENTER_X + (radius + 320) * dcos(phase);
 inventory.y = CENTER_Y - (radius + 320) * dsin(phase);
 
+obj_dymek.x = CENTER_X + (radius + 140) * dcos(phase);
+obj_dymek.y = CENTER_Y - (radius + 140) * dsin(phase);
+
 var i;
 for (i = 0; i < instance_number(item_parent); i += 1) {
 	o = instance_find(item_parent, i);

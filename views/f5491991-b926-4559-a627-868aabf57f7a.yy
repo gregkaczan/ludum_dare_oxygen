@@ -10,7 +10,8 @@
         "9f1298bd-dbbe-4a63-b7d4-92c80a1ad54f",
         "11a73f27-d52f-40ca-b3e4-6f9d21c30093",
         "b1fac658-c01d-4df4-976c-603bf7add21a",
-        "ba980f93-133e-4605-8293-a62c018eca5d"
+        "ba980f93-133e-4605-8293-a62c018eca5d",
+        "12796797-1f8f-415e-90d4-07fbd2016d7f"
     ],
     "filterType": "GMObject",
     "folderName": "intro",

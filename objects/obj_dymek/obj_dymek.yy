@@ -1,23 +1,23 @@
 {
-    "id": "ae9047d0-09df-419d-b636-37bd565bde4b",
+    "id": "12796797-1f8f-415e-90d4-07fbd2016d7f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "item_duck",
+    "name": "obj_dymek",
     "eventList": [
         {
-            "id": "91325633-9f00-4cec-a0d7-06c0753eb40d",
+            "id": "a6dd401e-fb9d-4d2c-b50a-bc77eed0f9ce",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "ae9047d0-09df-419d-b636-37bd565bde4b"
+            "eventtype": 8,
+            "m_owner": "12796797-1f8f-415e-90d4-07fbd2016d7f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "6c66f1dd-2a3c-4d2e-b54a-643561c5f48a",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ce384ec5-9465-412b-8ab8-a07a8797443c",
+    "spriteId": "7a056815-e2bb-4ebf-b1f3-556482054a96",
     "visible": true
 }
