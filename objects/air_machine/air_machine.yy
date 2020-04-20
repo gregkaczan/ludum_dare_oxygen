@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "air_machine",
     "eventList": [
-        
+        {
+            "id": "bdb041ae-2784-4f78-b776-cfc8b7581b32",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "da70f704-37fa-4a09-ba60-e9028765bfdb"
+        },
+        {
+            "id": "bece12be-b276-4ee9-9546-b276b0da8b78",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 10,
+            "eventtype": 7,
+            "m_owner": "da70f704-37fa-4a09-ba60-e9028765bfdb"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
