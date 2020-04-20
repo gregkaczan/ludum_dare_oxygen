@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_duck",
     "eventList": [
-        
+        {
+            "id": "fe880681-1c20-4ce2-991f-e63d679da5e0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ae9047d0-09df-419d-b636-37bd565bde4b"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
