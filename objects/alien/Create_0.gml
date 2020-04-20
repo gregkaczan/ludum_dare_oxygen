@@ -4,4 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-ds_map_add(approves_object,"item_duck",item_kryptonit)
+ds_map_add(approves_object,"item_duck",item_kryptonit);
+
+bubble_sprite = spr_bubble_dude;

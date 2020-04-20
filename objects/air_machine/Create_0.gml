@@ -10,3 +10,5 @@ ds_map_add(approves_object, "item_He_tank", 1);
 ds_map_add(approves_object, "item_Kr_tank", 1);
 ds_map_add(approves_object, "item_H_tank", 1);
 ds_map_add(approves_object, "item_Xe_tank", 1);
+
+bubble_sprite = spr_bubble_air_tank;

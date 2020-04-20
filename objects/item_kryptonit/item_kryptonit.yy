@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_kryptonit",
     "eventList": [
-        
+        {
+            "id": "51dd7474-1db5-4ad1-972b-b1854320231a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "2f7defc1-2d9c-4645-9676-dcdfada30f1e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

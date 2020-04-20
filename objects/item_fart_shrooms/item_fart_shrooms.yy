@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_fart_shrooms",
     "eventList": [
-        
+        {
+            "id": "46573098-a414-4f90-a82b-7ca9adbd74d3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b1385269-e865-4f09-83ae-20c6b5f9b6f6"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_foodcan",
     "eventList": [
-        
+        {
+            "id": "fc72de8a-87f1-4d87-828f-12df60233c30",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b2c83f39-3a96-43e9-bc21-a9faffa4c5a3"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
