@@ -9,6 +9,6 @@ if (
 		event_user(0);
 	} else {
 		show_debug_message("not ok");
-		audio_play_sound(snd_nuh_uh, 1, 0);
+		//audio_play_sound(snd_nuh_uh, 1, 0);
 	}
 }
