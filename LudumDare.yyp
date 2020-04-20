@@ -1735,6 +1735,14 @@
             }
         },
         {
+            "Key": "d7b8f0d9-ca13-4a41-b609-46f466522547",
+            "Value": {
+                "id": "da7ef26d-84d3-4979-8f88-9012bd2963bb",
+                "resourcePath": "objects\\ship1\\ship1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "da70f704-37fa-4a09-ba60-e9028765bfdb",
             "Value": {
                 "id": "2046e37b-62a5-40a0-ae8a-4a9d9d14290e",
