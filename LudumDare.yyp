@@ -479,14 +479,6 @@
             }
         },
         {
-            "Key": "3de56c09-128c-4f55-a2c3-2c25804e5505",
-            "Value": {
-                "id": "a9eb284b-118b-451c-8b6b-ed0a2cd0d66a",
-                "resourcePath": "sprites\\spr_air_machine1\\spr_air_machine1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3f91e76d-b808-4797-be29-0ac77b219abe",
             "Value": {
                 "id": "ec0f7224-d2db-4f1b-bffe-7f82dbb87931",
@@ -1308,6 +1300,14 @@
                 "id": "2cec8de3-8365-4c14-a99e-0c9ed5cc5850",
                 "resourcePath": "views\\c65595eb-b0f0-4dc8-bbaf-e9fa4386ffa2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c8420b22-e5f5-43b1-b7a2-326549abbd7b",
+            "Value": {
+                "id": "8cc92b29-b275-4ef1-be0a-a64be7774ef7",
+                "resourcePath": "sprites\\spr_air_machine_full\\spr_air_machine_full.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
