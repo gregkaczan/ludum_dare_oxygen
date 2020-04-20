@@ -575,6 +575,14 @@
             }
         },
         {
+            "Key": "4eb09f0f-c044-4170-a736-eb46f39a06eb",
+            "Value": {
+                "id": "6c27fc40-ed19-401b-8694-de65dca6dbed",
+                "resourcePath": "objects\\OutroControllerFlyOff\\OutroControllerFlyOff.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4fa33663-be8f-4a78-9526-9d5dfd934faf",
             "Value": {
                 "id": "be1ce643-1c16-4c8b-9e12-b2c0aa95d74a",
@@ -815,6 +823,14 @@
             }
         },
         {
+            "Key": "774c1bbd-9afd-4719-b763-30e622a0d193",
+            "Value": {
+                "id": "e37277b7-3b67-4249-84f8-aaa11d31f509",
+                "resourcePath": "objects\\outro_rocket\\outro_rocket.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "78f36717-cb6a-4877-beaf-d5882ea9d9ea",
             "Value": {
                 "id": "4b2dcd3e-7ce3-46f7-9801-a02cc53fe022",
@@ -827,6 +843,14 @@
             "Value": {
                 "id": "efae3610-a54f-4bb0-996f-7ba198f1eb85",
                 "resourcePath": "views\\79a81038-5122-4316-a6f8-9663fef3cfc0.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "79f6a5eb-b2af-457d-a9c5-0e14c9f32f47",
+            "Value": {
+                "id": "350ed114-3d73-48ce-addb-9c3365a0ba57",
+                "resourcePath": "views\\79f6a5eb-b2af-457d-a9c5-0e14c9f32f47.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -975,6 +999,14 @@
             }
         },
         {
+            "Key": "9a382594-1017-473f-ab9e-b6467c2b1aee",
+            "Value": {
+                "id": "2f964979-aa6d-4f87-9b0d-a79ffff00334",
+                "resourcePath": "rooms\\outro_THEEND\\outro_THEEND.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9f1298bd-dbbe-4a63-b7d4-92c80a1ad54f",
             "Value": {
                 "id": "1b9e03a8-e370-4057-a590-9deb6f1a200f",
@@ -1020,6 +1052,14 @@
                 "id": "625b7997-21e8-4ba3-ab68-a41b82ca2544",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a32f1f31-2b8d-4d7f-a743-775843ef59a3",
+            "Value": {
+                "id": "d7e74003-c4e9-4056-af78-7dd5a74f9459",
+                "resourcePath": "objects\\outro_planeta\\outro_planeta.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1247,6 +1287,14 @@
             }
         },
         {
+            "Key": "bab8f1e2-486a-4c9c-bd16-52bbb6ec5d61",
+            "Value": {
+                "id": "ff2010f8-88cc-4d1d-ab8c-57c1462f7cff",
+                "resourcePath": "rooms\\outro_flyoff\\outro_flyoff.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "bb146e34-18fd-48b0-a090-e58e39c1a77e",
             "Value": {
                 "id": "dcb2833d-41f6-4dda-8a16-77f7c3b46a3b",
@@ -1284,6 +1332,14 @@
                 "id": "ecf291cb-1299-48bb-8880-5bb7fb7dc755",
                 "resourcePath": "views\\c0f8882d-b02c-4ebc-ad07-eece8db5a358.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c397e234-4a3b-44f4-91ef-54afd4090ba8",
+            "Value": {
+                "id": "cbf92ce5-7ace-4ef4-9831-4a1d014a3799",
+                "resourcePath": "objects\\OutroControllerTHEEND\\OutroControllerTHEEND.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1491,6 +1547,14 @@
             "Value": {
                 "id": "031dbeeb-d1f0-41fb-adbb-874aef687d34",
                 "resourcePath": "views\\e6604127-49cc-4591-9922-1140a20dca78.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e836517e-3b38-4f62-b0ca-93327b2e69c9",
+            "Value": {
+                "id": "8d245269-6779-4625-977e-661f15be2669",
+                "resourcePath": "views\\e836517e-3b38-4f62-b0ca-93327b2e69c9.yy",
                 "resourceType": "GMFolder"
             }
         },
