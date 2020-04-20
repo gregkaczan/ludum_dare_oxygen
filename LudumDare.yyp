@@ -1095,6 +1095,14 @@
             }
         },
         {
+            "Key": "aca5e2dc-42d9-4004-876a-a3004f64e7e7",
+            "Value": {
+                "id": "be91c457-76df-4845-93f9-2269534ec459",
+                "resourcePath": "sprites\\spr_alien_hand\\spr_alien_hand.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ad0c699f-363b-401f-945d-94896e67a53a",
             "Value": {
                 "id": "ca30fe07-5a7b-4731-a958-42ed6f9b2ee6",
