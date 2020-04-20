@@ -14,8 +14,8 @@ for (i = 0; i < instance_number(item_parent); i += 1) {
     if (o.is_collected && !o.is_dragged) {
 		
 		dx = o.sprite_width / 10;
-		o.x = CENTER_X + (radius + 320) * dcos(-15+(phase + i * 5));
-		o.y = CENTER_Y - (radius + 320) * dsin(-15+(phase + i * 5));
+		o.x = CENTER_X + (radius + 320) * dcos(-22+(phase + i * 5));
+		o.y = CENTER_Y - (radius + 320) * dsin(-22+(phase + i * 5));
     }
 }
 
