@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0605b60c-a131-4f90-a0bf-f680179f5175",
+            "Value": {
+                "id": "94ce556a-a840-4fd3-97c8-acf876cb75c6",
+                "resourcePath": "rooms\\intro_empty1\\intro_empty1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "080b831f-e223-4e68-b389-3e7ee4be7c19",
             "Value": {
                 "id": "ea48d10d-0756-4c38-9765-93e072ca157f",

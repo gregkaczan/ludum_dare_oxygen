@@ -15,3 +15,5 @@ ds_map_add(approves_object,"item_poop",item_ch_tank);
 ds_map_add(approves_object,"item_fart_shrooms",item_n_tank);
 ds_map_add(approves_object,"item_ksenon_crystals",item_Xe_tank);
 ds_map_add(approves_object,"item_neon_piece",item_Ne_tank);
+
+bubble_sprite = spr_bubble_gas_extr;
