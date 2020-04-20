@@ -3,6 +3,4 @@
 
 // Inherit the parent event
 event_inherited();
-
-at_ground = false;
-bubble_sprite = spr_bubble_leaf;
+bubble_sprite = spr_bubble_canned_food;

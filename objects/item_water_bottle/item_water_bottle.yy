@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_water_bottle",
     "eventList": [
-        
+        {
+            "id": "7db2ebf3-39f5-4ea8-a399-272fd65e01ed",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cac5a528-e778-466d-b8dc-f7aa9c5dbe9e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

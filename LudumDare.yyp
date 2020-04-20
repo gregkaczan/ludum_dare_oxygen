@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "46039e41-c722-458c-83d6-ac8247b055f2",
+            "Value": {
+                "id": "11ce0db6-3bed-4da9-ac13-34780c428c3f",
+                "resourcePath": "objects\\bubble_parent\\bubble_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "470f9fd2-7889-4783-947b-29e87cd3f6f2",
             "Value": {
                 "id": "52530a42-897e-4524-a9b2-b307d3b86abe",

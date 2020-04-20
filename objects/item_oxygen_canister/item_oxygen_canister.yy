@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_oxygen_canister",
     "eventList": [
-        
+        {
+            "id": "8a801e22-c5f8-460b-a093-86bcecbfac9c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0f174c02-9920-4468-bec6-78c2d8876d22"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

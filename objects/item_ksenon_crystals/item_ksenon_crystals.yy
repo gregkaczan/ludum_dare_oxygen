@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "item_ksenon_crystals",
     "eventList": [
-        
+        {
+            "id": "fb018240-d2f4-4563-bea8-de797898785e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b67e3e15-febb-4e36-a3b9-f23928f5d1d1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
