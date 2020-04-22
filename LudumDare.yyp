@@ -1591,6 +1591,14 @@
             }
         },
         {
+            "Key": "c1e3d24c-30eb-406f-ae0a-cef1115c271c",
+            "Value": {
+                "id": "49413dfe-4fb2-43a4-a07f-886a231d8d66",
+                "resourcePath": "sprites\\spr_bubble_methane\\spr_bubble_methane.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c397e234-4a3b-44f4-91ef-54afd4090ba8",
             "Value": {
                 "id": "cbf92ce5-7ace-4ef4-9831-4a1d014a3799",

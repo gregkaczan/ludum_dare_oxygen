@@ -5,4 +5,4 @@
 event_inherited();
 
 pickup_sound = snd_gastank;
-bubble_sprite = spr_bubble_helium;
+bubble_sprite = spr_bubble_methane;
