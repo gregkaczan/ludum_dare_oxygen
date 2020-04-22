@@ -1,2 +1,2 @@
-alarm[0] = 7 * room_speed;
+alarm[0] = 5 * room_speed;
 audio_play_sound(snd_title, 1, 0);

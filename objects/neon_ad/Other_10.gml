@@ -10,5 +10,8 @@ show_debug_message(obj_name);
 global.dragged = -1;
 
 product_id = ds_map_find_value(approves_object, obj_name);
-product_id.strucked = true;
+if (instance_exists(item_neon_piece)) {
+	product_id.strucked = true;
+}
+
 

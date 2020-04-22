@@ -919,6 +919,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "c7eda603-ce71-4524-ab11-aac66712cec8",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "75f7ada2-c641-4dcf-b3a2-588207de2b60",
             "Value": {
                 "id": "3fb8cc7a-9104-48a4-b454-4e79dd6fbe47",
@@ -1755,6 +1763,14 @@
             "Value": {
                 "id": "2046e37b-62a5-40a0-ae8a-4a9d9d14290e",
                 "resourcePath": "objects\\air_machine\\air_machine.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dbbdd72d-f5f4-48be-a27a-5028973697b1",
+            "Value": {
+                "id": "9719e32a-65da-4e09-9e35-6100387b65e5",
+                "resourcePath": "objects\\smoke_emitter_4\\smoke_emitter_4.yy",
                 "resourceType": "GMObject"
             }
         },
